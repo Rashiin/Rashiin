@@ -62,9 +62,8 @@ Recognized as a Talented Student for outstanding academic performance
 
 🌍 Connect with Me:
 
-🔗 LinkedIn
 
-📧 Email: farahanirashin@gmail.com
+📧 Email: farahanirashin@gmail.com , rashin.gholijanifarahani@iau.ir
 
 ✨ Always open to collaborating on innovative frontend, database, Python, and AI projects!
 
