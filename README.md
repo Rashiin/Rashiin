@@ -6,7 +6,7 @@ Software Engineer
 
 As a Master’s student in Computer Engineering with a focus on Artificial Intelligence, I am deeply passionate about the intersection of AI and front-end development. My journey began with a Bachelor's degree in Computer Engineering, completed in an accelerated 3-year timeline with distinction. During my studies, I developed a strong foundation in AI, machine learning, and frontend technologies, excelling in both academic and practical applications.
 
-With over 2 years of experience, I’ve worked on dynamic frontend projects, incorporating frameworks like React, Redux, and Tailwind CSS. As an instructor at Tehran Institute of Technology, I’ve guided aspiring developers in mastering modern web technologies, fostering a culture of innovation and problem-solving.
+With over 3 years of experience, I’ve worked on dynamic frontend projects, incorporating frameworks like React, Redux, and Tailwind CSS. As an instructor at Tehran Institute of Technology, I’ve guided aspiring developers in mastering modern web technologies, fostering a culture of innovation and problem-solving.
 
 Under the mentorship of Professor Touraj Arminpour, I’ve further honed my expertise in AI, contributing to research on optimization algorithms, machine learning models, and their real-world applications. My active participation in AI and frontend-focused projects has allowed me to merge theoretical knowledge with hands-on problem-solving, advancing my understanding of cutting-edge technologies.
 
