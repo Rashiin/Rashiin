@@ -4,19 +4,78 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-As a Master’s student in Computer Engineering with a focus on Artificial Intelligence, I am deeply passionate about the intersection of AI and front-end development. My journey began with a Bachelor's degree in Computer Engineering, completed in an accelerated 3-year timeline with distinction. During my studies, I developed a strong foundation in AI, machine learning, and frontend technologies, excelling in both academic and practical applications.
+Hi there, I'm Rashin Gholijani Farahani 👋
 
-With over 3 years of experience, I’ve worked on dynamic frontend projects, incorporating frameworks like React, Redux, and Tailwind CSS. As an instructor at Tehran Institute of Technology, I’ve guided aspiring developers in mastering modern web technologies, fostering a culture of innovation and problem-solving.
+I'm a Master's student in Computer Engineering (AI), passionate about the intersection of Artificial Intelligence and Frontend Development. With a robust academic background and hands-on experience, I specialize in creating dynamic, interactive web applications and exploring innovative AI solutions.
 
-Under the mentorship of Professor Touraj Arminpour, I’ve further honed my expertise in AI, contributing to research on optimization algorithms, machine learning models, and their real-world applications. My active participation in AI and frontend-focused projects has allowed me to merge theoretical knowledge with hands-on problem-solving, advancing my understanding of cutting-edge technologies.
+🚀 My Journey:
 
-Proficient in English and skilled in collaboration, I am eager to bring my expertise and passion for technology to impactful, dynamic teams, contributing to innovative solutions in the tech industry.
+🎓 MSc in Computer Engineering (Artificial Intelligence) - Azad University, Karaj (2024–2026)
+
+🎓 BSc in Computer Engineering - Azad University, Karaj (Graduated with distinction in 3 years)
+
+💻 Tech Stack:
+
+Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux, Context API, Tailwind CSS, Bootstrap, Vite
+
+Backend & DB: RESTful APIs, SQL, MySQL
+
+Tools: Git, GitHub, SEO, AJAX, jQuery
+
+Programming Languages: JavaScript (Advanced), Python (Advanced), C++ (Basic)
+
+🤖 AI & Research Experience:
+
+Portfolio Optimization using Genetic Algorithms: Improved portfolio performance by 39% through advanced optimization methods.
+
+Metaheuristic Algorithms in Game Development (Pac-Man): Enhanced NPC behaviors, achieving 40% higher scores.
+
+Machine Learning for ADHD Diagnosis: Boosted classification accuracy by 15% using feature selection.
+
+👩‍🏫 Professional Highlights:
+
+Frontend Instructor at Tehran Institute of Technology: Mentored over 35 students, resulting in a 30% job placement rate.
+
+Frontend Developer Intern at Vimate Startup: Improved website load times by 25% through React and Next.js.
+
+AI Mentor at Azad University: Successfully guided over 50 students through practical AI projects.
+
+📂 Featured Projects:
+
+Dynamic IMDB-like Web App: React, Redux, MockAPI
+
+Travel Agency Website: Responsive React App
+
+E-commerce Site (Oriflame): Tailwind CSS, Responsive Design
+
+LEGO-themed Website: Modern UI with Tailwind CSS
+
+Efficient Spam Email Classifier: Advanced preprocessing and machine learning
+
+🌟 Awards & Achievements:
+
+Top Graduate in BSc Computer Engineering (2024)
+
+International Recognition for AI Research (MLKD 2024)
+
+Recognized as a Talented Student for outstanding academic performance
+
+🌍 Connect with Me:
+
+🔗 LinkedIn
+
+📧 Email: farahanirashin@gmail.com
+
+✨ Always open to collaborating on innovative frontend, database, Python, and AI projects!
+
+Let's create something impactful together!
+
 
 * 🌍  I'm based in Tehran
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/rashin-gholijani-farahani)
 * ✉️  You can contact me at [farahanirashin@gamil.com](mailto:farahanirashin@gamil.com)
 * 🧠  I'm learning NextJs
-* 🤝  I'm open to collaborating on Frontend projects ( React ) , Database and Python Projects and machine learning
+* 🤝  I'm open to collaborating on Frontend projects ( React ), Database and Python Projects and machine learning
 * ⚡  I enjoy tackling problems and overcoming challenges.
 
 ### Skills
